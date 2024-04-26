@@ -3,7 +3,7 @@ package org.example
 class Calculator {
     var num1: Int = 0
     var num2: Int = 0
-    val op: String = ""
+    val operator: String = ""
 
     fun Sum(): Int {
         val plus = num1 + num2
